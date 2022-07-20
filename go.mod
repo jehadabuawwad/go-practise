@@ -1,3 +1,3 @@
-module example/start
+module main
 
 go 1.18

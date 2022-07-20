@@ -7,8 +7,7 @@ import (
 	"strconv"
 )
 
-func main() {
-	hello()
+func userInput() {
 	fmt.Println("Type you born year: ")
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
