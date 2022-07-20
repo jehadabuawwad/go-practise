@@ -25,7 +25,7 @@
 Clone this repository to your local machine.
 
 ```
-$ git clonehttps://github.com/jehadabuawwad/go-practise.git
+$ git clone https://github.com/jehadabuawwad/go-practise.git
 ```
 
 #### Once downloaded, you can start the server and see examples of GoLang tricks
