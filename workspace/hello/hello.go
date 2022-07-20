@@ -5,3 +5,7 @@ import "fmt"
 func hello() {
 	fmt.Println("Welcome ")
 }
+
+func main() {
+	hello()
+}
